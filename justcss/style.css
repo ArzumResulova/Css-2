@@ -1,0 +1,223 @@
+h2 {
+    color: rgba(255, 0, 85, 0.782);
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+span u {
+
+    font-family: fantasy;
+}
+
+div u {
+    font-family: fantasy;
+    color: rgb(1, 0, 0);
+}
+
+.first {
+
+    display: inline-block;
+
+    background-color: rgb(255, 164, 195);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 50px;
+    padding: 15px;
+    text-align: center;
+    font-family: cursive;
+    font-size: medium;
+    overflow-y: scroll;
+}
+
+
+
+.Taylor {
+    text-shadow: 3px 4px 1px rgba(226, 49, 226, 0.775);
+    visibility: hidden;
+    transition: .1s;
+}
+
+div p {
+
+    visibility: hidden;
+    text-shadow: 3px 4px 1px rgba(226, 49, 226, 0.775);
+}
+
+.Elon {
+    text-shadow: 3px 4px 1px rgba(226, 49, 226, 0.775);
+    transition: .1s;
+    visibility: hidden;
+}
+
+div {
+
+    background-color: rgba(249, 164, 195);
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+    padding: 25px;
+    margin: 0px 400px;
+    overflow-y: scroll;
+    text-align: center;
+    font-family: cursive;
+}
+
+/* div:hover {
+
+    background-color: rgba(156, 255, 255, 0.388);
+    transform: scale(1.035);
+    visibility: visible;
+    
+} */
+
+/* 
+div p{
+
+    font-family: "Dancing Script", cursive;
+        font-size: xx-large;
+        font-style: normal;
+
+}
+ */
+
+
+
+
+.second {
+
+
+    display: inline-block;
+
+    background-color: rgb(255, 164, 195);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 50px;
+    padding: 15px;
+    text-align: center;
+    font-family: cursive;
+    font-size: medium;
+    overflow-y: scroll;
+
+}
+
+
+::-webkit-scrollbar {
+
+    background-color: rgb(255, 47, 252);
+    width: 10px;
+    height: 10px;
+    border: 2px solid rgb(255, 1, 86);
+
+}
+
+::-webkit-scrollbar-thumb {
+
+    background-color: rgb(255, 154, 230);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-button {
+    background-color: black;
+}
+
+span:hover .Taylor {
+    background-color: rgb(255, 164, 195);
+    transform: scale(1.04);
+    cursor: text;
+    visibility: visible;
+}
+
+span:hover .Elon {
+
+    background-color: rgb(255, 164, 195);
+    transform: scale(1.04);
+    cursor: text;
+    visibility: visible;
+}
+
+div:hover .Reason {
+
+    visibility: visible;
+    background-color: rgb(255, 164, 195);
+    transform: scale(1.02);
+
+}
+
+
+/* 
+p:hover. Reason{
+
+    visibility: visible;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* .Red:hover{
+    
+background-color: rgb(255, 183, 195);
+cursor: pointer;
+border-radius: 15px;
+transform: scale(1.25);
+
+
+}
+
+.blue:hover{
+    
+background-color: rgb(255, 173, 173);
+cursor: pointer;
+border-radius: 15px ;
+transform: scale(1.25);
+}
+.blue:hover{
+    
+background-color: rgb(255, 173, 173);
+cursor: pointer;
+border-radius: 15px ;
+transform: scale(1.25);
+}
+.green:hover{ */
+
+
+
+
+
+
+
+/* span{
+    
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    display: inline-block;
+background-color: pink;
+
+}
+
+
+h2{
+
+   color: rgb(255, 141, 160);
+   text-shadow: 3px 2px .03px rgb(208, 0, 255);
+   font-size: xx-large;
+}
+
+span:hover{
+    background-color: rgb(255, 173, 173);
+        cursor: pointer;
+        border-radius: 15px;
+        transform: scale(1.25);
+      
+
+} */
